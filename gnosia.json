@@ -1,0 +1,205 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-2981632546100711",
+
+        "BannerAdmob": "ca-app-pub-2981632546100711/5292540695",
+        "InterstitialAdmob": "ca-app-pub-2981632546100711/3979459028",
+        "NativeAdmob": "ca-app-pub-2981632546100711/2315023569",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Gnosia creators on the cult hit that’s finally coming to the US",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "First off, failure is ok",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Talk to characters.",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Don’t forget to level up!",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "Adjust the settings!",
+        "image": "image5.jpg"
+      },
+      {
+        "title": "How to Choose Your Role In Gnosia",
+        "image": "image6.jpg"
+      },
+      {
+        "title": "EXPANDING THE LOOP",
+        "image": "image7.jpg"
+      },
+      {
+        "title": "GNOSIA IS MORE THAN AN ANIME WEREWOLF",
+        "image": "image8.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image1.jpg",
+        "text": "ImpostorImpostor games have always had an odd way of bringing people together, whether it’s the real-life party pastime Mafia, a tabletop version like The Resistance spurring on heated debates, or Among Us helping social groups find a way to stay in touch amid the pandemic.
+Gnosia is an interesting take on social deduction because it eschews a typical multiplayer framing in favor of a single-player format. It plays out like a visual novel crossed with a debate club, where you have to try and direct discussion and suspicion without drawing too much upon yourself.
+
+But don’t mistake Gnosia for yet another game hopping on the Among Us bandwagon. Its origin story is much longer and more prestigious than you might suspect.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "You’re going to get killed or vote the wrong people off a lot. The game accounts for it, and if you see a round going south, don’t be afraid to play it out. The overarching story of Gnosia is more about experimentation and completing loops rather than winning every single round.
+		The rounds only last about ten minutes, so you’re never far off from starting fresh and being able to try out a new approach or simply reset the board.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image3.jpg",
+        "text": "In between voting rounds, you’ll have the option to talk to various crewmates around the ship. If you ever see a red exclamation point on the map, go there. It will give you more information on a character or situation and will be added to your data log for future games.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "Leveling up can be done in between voting rounds but comes at the cost of not being able to talk to a character before the subsequent voting round. Be sure to level up your stats when you feel like you don’t need additional information. You’ll get experience after each completed loop. Be sure to spend those points!
+
+Speaking of points, investing in Logic early on can be super helpful. Sometimes you have pieced together who the Gnosia is, but the game doesn’t want to listen to you. Having a higher logic will make it easier for characters to believe you and vote your preferred way. This helps mitigate some of the RNG thrown your way. ",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image5.jpg",
+        "text": "After a few loops, you’ll be able to tool around with how many NPC’s there are, which roles are available in a loop, and even your own role. Don’t hesitate to shake things up and try new combinations. The game encourages it and even tells you that special occurrences are more likely to happen based on weird setting combinations. Experiment experiment experiment!",
+        "isNative": "true"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image6.jpg",
+        "text": "Gnosia is a murder mystery game that will take you through multiple time loops every time you complete a run. Each run lasts about 10-15 minutes and will push the story forward.
+
+After you’ve looped 12 times you’ll be given access to the ability to change your role. Meaning you won’t have to just play as a crewmate, but you’ll be able to play as a crewmate, engineer, guardian angel, Doctor, or even the Gnosia themselves.
+
+Once you hit Loop 13 it will trigger a story cutscene explaining why you now have this new power. The menu before each new loop will now look like this. It’s here where you can change the number of NPCs, what roles are available, what you will be for the next loop, and eventually, more options will present themselves as the gamer progresses.
+
+Early in the game, Gnosia will spend most of the time explaining the various roles to you by making you play through loops as it introduces new concepts to you. Once you’ve unlocked the ability to choose your role the game will continue to test and push the story forward every new loop.",
+        "isNative": "true"
+      }
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image7.jpg",
+        "text": "With Gnosia coming west, there’s now an entirely new segment of players to try it out for themselves. The team is excited for them to play, noting how it provides a different kind of experience — a single-player game that’s both a mystery and a novel — than the multiplayer-focused Among Us.
+
+“This is a game that features an entirely new system of ‘game grammar,’ so we really hope that players outside Japan can get into it and appreciate it,” Mezukare says. “For each individual player, there is a unique feeling of catharsis to be gained.”
+
+For a team that was making a humble visual novel for the Vita, it’s been an interesting journey. Mezukare recalled how fun it was discussing different settings and stuff that didn’t make it into the final product; “Also, playing Splatoon 2 while thinking about how development was behind and I was about to go broke was super fun, too!” Mezukare says, noting the team still plays together now.",
+        "isNative": "true"
+      }
+    ],
+    "content8": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image8.jpg",
+        "text": "On top of the impostor element, there is another major focus of Gnosia that sets it apart: time loops. It’s clear within minutes that your character is caught in a time loop, repeating these games of humans versus impostors over and over again.
+
+In some cases, you’re a simple crewmate. But what if you loop back around as an Engineer, who can scan one person for potential impostorhood each night? Or the Doctor, able to test and see whether the person most recently put into cold sleep — a slightly less gruesome alternative to the usual voting-out portion of a werewolf game — was an impostor or not? Or maybe you’re the Gnosia itself, an alien lifeform pretending to be human, each night working to erase their existence from the universe.
+
+Each loop, the player tries to learn more about the world, like why time repeats itself or what the Gnosia really are, while also avoiding erasure or being put into cold sleep by their fellow crew members.",
+        "isNative": "true"
+      }
+    ]
+  }
+}
