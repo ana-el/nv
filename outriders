@@ -1,0 +1,185 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Free Fire x Attack on Titan skins",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "Attack On Titan In The Latest Event",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Attack on Titan: Everything you need to know",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Avoid introverts and old people.",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "Free Fire Attack on Titan Costumes Leaked",
+        "image": "image5.jpg"
+      },
+      {
+        "title": "Free Fire Attack On Titan Collaboration is Now Live",
+        "image": "image6.jpg"
+      },
+      {
+        "title": "Costumes And Weapon Skins",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Garena Free Fire X Attack On Titan: What To Expect",
+        "image": "image1.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image1.jpg",
+        "text": "Android and iOS battle royale Free Fire is about to augment its game with the fight for humanity. The popular battle royale has teamed up with the globally beloved Attack on Titan anime to start a collaborative event, and right now, there are new player, weapon, and airdrop skins to check out. Additionally, upcoming content related to the event is right around the corner. Publisher Garena announced the Free Fire x Attack on Titan collaborative event recently alongside an announcement trailer and another trailer featuring the now-available skins. As of today, players can suit up in male and female versions of the Survey Corps skins. You can transform your character into a Titan with Eren Jaeger’s Titan form skin and the Armored Titan skin as well.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "You won’t be flying around the map in omni-directional mobility gear or growing fifty feet tall with these skins, but weapon skins are also coming to the game. The M1014 and P90 now have skins featuring the skull and sinew form of the Colossal Titan. Finally, airdrops will be decked out Attack on Titan style as well, featuring art of main characters Eren and Mikasa on each wing. This is all groundwork for further content coming later this month. March 27 will see Free Fire get an all-new game mode in honor of the Attack on Titan collaborative event, so stay tuned to Free Fire’s social media for further news on the upcoming content.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image3.jpg",
+        "text": "Free Fire is a mobile battle royale on Google Play for Android and the App Store for iOS. It features up to 50 players battling it out with weapons and abilities across a varied battlefield. With Free Fire and Attack on Titan teamed up, fans of either should definitely jump in now to get their hands on the new available skins, and stay tuned for the upcoming event game mode as it becomes available later this March.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "Garena Free Fire today kicked off a massive crossover event with Attack on Titan. The collaboration will see content from the popular anime make its way to the mobile battle royale, including an invasion of the series' iconic The event runs until April, giving you the chance to earn exclusive Attack on Titan content such as costumes, weapon skins, and event reskins. You'll also be able to jump into a new game mode on March 27, although specifics will be revealed in the coming weeks.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image5.jpg",
+        "text": "Players will be offered the opportunity to battle in Attack on Titan’s trademark style through fashion items inspired by the series, the Garena Free Fire team announced. These will include the iconic uniform of the Survey Corps – the hope of mankind. The costumes will have the division’s Wings of Freedom insignia proudly displayed on the jackets and will be available in both the male and female variants. You'll also have access to both Armoured and Attack Titan costumes and several gun skins – including AoT skins for the P90 and M1014. Be on the lookout for several in-game easter eggs, too, as Free Fire will redesign some of its most popular elements with AoT flair, such as airdrop boxes and airplanes.",
+        "isNative": "true"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image6.jpg",
+        "text": "There are a lot of important jobs to do on Mars. Seriously, a lot. Especially when you factor in the aforementioned old people who won’t pull their weight. It’s very easy to make a luxurious dome that looks great, but doesn’t support a population needed to run all of its services properly. In a typical dome, I devote nearly half of the real estate to residential apartments. And once I unlock the arcology spire, which provides even more housing, it becomes almost mandatory. Restaurants and hospitals are no good if they aren’t staffed, and the problem is only made worse if you have resource extraction buildings that require human labor outside the dome competing for your colonists’ time.",
+        "isNative": "true"
+      }
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image7.jpg",
+        "text": "A new login keyart and lobby screen have also been introduced in Free Fire. In the coming days, players will get an opportunity to obtain Attack on Titan-themed fashion items, including the uniform of the Survey Corps. It will have both male and female variants. The Armored Titan costume will also be available.",
+        "isNative": "true"
+      }
+    ],
+    "content8": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image8.jpg",
+        "text": "This new collaboration will arrive during March, with content inspired by the series ranging from skins based on its various legions to several inspired by the different Titans and new weapon skins and collectibles that will also make give players an incentive to grind.",
+        "isNative": "true"
+      }
+    ]
+  }
+}
