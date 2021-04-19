@@ -5,11 +5,11 @@
     "AdsController": [
       {
         "NetworkAds": "admob",
-        "AdMobId": "pub-3940256099942544",
+        "AdMobId": "pub-2981632546100711",
 
-        "BannerAdmob": "",
-        "InterstitialAdmob": "",
-        "NativeAdmob": "",
+        "BannerAdmob": "ca-app-pub-2981632546100711/1127971922",
+        "InterstitialAdmob": "ca-app-pub-2981632546100711/4875645241",
+        "NativeAdmob": "ca-app-pub-2981632546100711/3562563578",
 
         "BannerFacebook": "IMG_16_9_APP_INSTALL#",
         "InterstitialFacebook": "IMG_16_9_APP_INSTALL#",
