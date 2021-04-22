@@ -1,0 +1,185 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "",
+
+        "BannerAdmob": "",
+        "InterstitialAdmob": "",
+        "NativeAdmob": "",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Landing and Looting Tips",
+        "image": "image1.jpg"
+      },
+      {
+        "title": "You Don't Have to Lead the Drop",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "Consider Landing Far, Far Away",
+        "image": "image3.jpg"
+      },
+      {
+        "title": "Supply Ship",
+        "image": "image4.jpg"
+      },
+      {
+        "title": "Split Off During the Drop",
+        "image": "image5.jpg"
+      },
+      {
+        "title": "Listen, and Learn to Ping",
+        "image": "image6.jpg"
+      },
+      {
+        "title": "Keep an Eye Out for Supply Bins",
+        "image": "image2.jpg"
+      },
+      {
+        "title": "And Keep an Eye Out for Loot Ticks",
+        "image": "image1.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image1.jpg",
+        "text": "Apex Legends has familiar landing and looting system to Battle Royale games, but its nuances make all the difference.",
+        "isNative": "true"
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image2.jpg",
+        "text": "The Jumpmaster is always given to the third person who picks a Legend. If you're given the task but don't want the responsibility, you can give up the position by hitting the prompted button during the countdown right after the character selection screen. However, if you're picking third and let Apex Legends autopick your Legend (this usually defaults to your Featured Legend chosen when you go to the Legends tab), the Jumpmaster role goes to the person who picked second. Consider Landing Far, Far Away If you're not comfortable landing RIGHT in the action, try staying in the drop ship longer and landing on the outskirts of the map. Chances are you'll only land near one or two other squads, and you may have more time to look over loot to really learn what they do.",
+        "isNative": "true"
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image3.jpg",
+        "text": "While dropping onto King’s Canyon, you will notice an icon for a supply ship on the map. This icon represents the supply ship’s final destination so if you time your drop path correctly, you can land on top of the supply ship. These ships are guaranteed high tiers of loot so be prepared for a hot fight. Since there is no fall damage in Apex Legends, feel free to grab a high tier weapon and jump ship immediately.",
+        "isNative": "true"
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image4.jpg",
+        "text": "You'll want to stay close to teammates when you land, but not too close. If you're landing in an area with few buildings, try to veer off a little toward other buildings so that your team isn't fighting over the same loot. Ammo is especially scarce, so have weapons of different types is helpful too.",
+        "isNative": "true"
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image5.jpg",
+        "text": "The Legends (characters) also give great callouts. If someone spots an enemy (but doesn't ping) their character will still call them out, especially if they're being shot at! But be sure to learn how to ping. The Ping system is extremely useful for conveying information to your team without actually communicating over a microphone. You can quickly ping loot for your teammates, point out an enemy on the battlefield, decline an action, and even indicate that you are going to loot a specific area.",
+        "isNative": "true"
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image6.jpg",
+        "text": "Hidden randomly around King's Canyon, players will have the opportunity to find Supply Bins. These large white cylinder like bins, often contain many highly sought after items such as weapons, attachments, ammunition, and even armor. It is important to remember that you aren't the only one seeking out these highly desired bins. So if you do happen to find a supply bin, be sure to keep a close eye on your surroundings for any nearby teams.",
+        "isNative": "true"
+      }
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image7.jpg",
+        "text": "You know those Apex Boxes you open for loot? Well, you can find them around King's Canyon too! If you find one of the Loot Ticks (they like to hide in corners, emit a colored light, and make a distinct noise), give the cute thing a good punch for loot.",
+        "isNative": "true"
+      }
+    ],
+    "content8": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF",
+        "style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false",
+        "link_title": "",
+        "setLink": "",
+        "image_link": "preview/image8.jpg",
+        "text": "Unlike other battle royale games, Apex Legends has a much slower style of play, most notably during the opening minutes. Respawn Entertainment has made it abundantly clear that due to the smaller number of players on the map, the typical early battle royale rush for weapons and gear isn't necessarily a major focus, as they don't want players picking up and using just any old weapon. Instead, they would much rather players spend their time building up a decent inventory of weapons and gear, while also ensuring that nearby areas are scouted properly for loot. When it comes down to it, your more thought out inventory will undoubtedly assist your team much better than the full inventory of items that you initially collected from the first building you entered.",
+        "isNative": "true"
+      }
+    ]
+  }
+}
