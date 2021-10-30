@@ -41,7 +41,7 @@
     },
     "app" : {
       "mode_off_version" : "0",
-      "mode_button_ads_action" : "1"
+      "mode_button_ads_action" : "rate"
     }
   },
   "posts" : [
